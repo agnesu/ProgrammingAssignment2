@@ -1,13 +1,13 @@
 ## Put comments here that give an overall description of what your
 ## functions do
-## kas muutused üldse teevad midagi
+## hakkan muutma
 
 ## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
 
 }
-
+## siia kirjutan esimenes osa
 
 ## Write a short comment describing this function
 
